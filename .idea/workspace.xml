@@ -146,11 +146,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2022" />
-    <option name="y" value="80" />
+    <option name="x" value="1867" />
+    <option name="y" value="53" />
     <option name="width" value="1938" />
     <option name="height" value="905" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -440,8 +441,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2002" y="64" width="1550" height="724" extended-state="0" />
-    <editor active="true" />
+    <frame x="1878" y="43" width="1550" height="724" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
